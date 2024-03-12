@@ -1,0 +1,14 @@
+C:\Users\mdzie\Desktop\GraWStatki\GraWStatki\obj\Debug\GraWStatki.csproj.AssemblyReference.cache
+C:\Users\mdzie\Desktop\GraWStatki\GraWStatki\obj\Debug\GraWStatki.csproj.CoreCompileInputs.cache
+C:\Users\mdzie\Desktop\GraWStatki\GraWStatki\bin\Debug\GraWStatki.exe.config
+C:\Users\mdzie\Desktop\GraWStatki\GraWStatki\bin\Debug\GraWStatki.exe
+C:\Users\mdzie\Desktop\GraWStatki\GraWStatki\bin\Debug\GraWStatki.pdb
+C:\Users\mdzie\Desktop\GraWStatki\GraWStatki\obj\Debug\GraWStatki.exe
+C:\Users\mdzie\Desktop\GraWStatki\GraWStatki\obj\Debug\GraWStatki.pdb
+C:\Users\Antek\Desktop\GraWStatki\GraWStatki\GraWStatki\bin\Debug\GraWStatki.exe.config
+C:\Users\Antek\Desktop\GraWStatki\GraWStatki\GraWStatki\bin\Debug\GraWStatki.exe
+C:\Users\Antek\Desktop\GraWStatki\GraWStatki\GraWStatki\bin\Debug\GraWStatki.pdb
+C:\Users\Antek\Desktop\GraWStatki\GraWStatki\GraWStatki\obj\Debug\GraWStatki.csproj.AssemblyReference.cache
+C:\Users\Antek\Desktop\GraWStatki\GraWStatki\GraWStatki\obj\Debug\GraWStatki.csproj.CoreCompileInputs.cache
+C:\Users\Antek\Desktop\GraWStatki\GraWStatki\GraWStatki\obj\Debug\GraWStatki.exe
+C:\Users\Antek\Desktop\GraWStatki\GraWStatki\GraWStatki\obj\Debug\GraWStatki.pdb
